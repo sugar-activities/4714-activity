@@ -1,0 +1,9 @@
+[Activity]
+name = JAMediaPyGiHack
+activity_version = 0.0.2
+bundle_id = org.laptop.JAMediaPyGiHack
+icon = PygiHack
+exec = sugar-activity JAMediaPyGiHack1.JAMediaPyGiHack2 -s
+mime_types =
+license = GPL3
+summary = 

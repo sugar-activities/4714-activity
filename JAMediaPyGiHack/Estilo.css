@@ -1,0 +1,10 @@
+/* Contenedores */ /*GtkMenu, GtkMenuItem, GtkLabel*/
+GtkWindow {
+    background-color: #edf5ff;
+    color: #000000;
+}
+
+GtkToolbar, GtkNotebook {
+    background-color: #edf5ff;
+    color: #000000;
+}
